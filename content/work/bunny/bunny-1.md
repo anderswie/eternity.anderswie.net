@@ -1,13 +1,14 @@
 ---
 weight: 3
 images:
-- https://source.unsplash.com/random?bunny&7662
-title: bunny 1
-date: 2022-07-23
+  - /Greenpoint Loft 2.jpg
+title: New York
+date: 2016-05-23
 tags:
-- archive # all posts
-- bunny
-- nature
+  - archive
+  - bunny
+  - nature
+lastmod: 2023-03-21T18:37:36.126Z
 ---
 
 ## Markdown
